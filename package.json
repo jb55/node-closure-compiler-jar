@@ -1,9 +1,9 @@
 {
-  "name": "closure-compiler",
+  "name": "closure-compiler-jar",
   "description": "closure-compiler npm module",
   "version": "0.0.0",
   "repository": {
-    "url": "git://github.com/jb55/node-closure-compiler.git"
+    "url": "git://github.com/jb55/node-closure-compiler-jar.git"
   },
   "bin": {
     "closure-compiler": "./closure-compiler"
