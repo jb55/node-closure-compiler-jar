@@ -1,0 +1,3 @@
+#!/bin/sh
+JAR="`npm prefix`/node_modules/closure-compiler/compiler.jar"
+java -jar "$JAR" $@
